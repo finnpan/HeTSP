@@ -1,6 +1,6 @@
 # HeTSP
 
-Heuristcis for Traveling Salesman Problem
+Heuristics for Traveling Salesman Problem
 
 ## EAX
 

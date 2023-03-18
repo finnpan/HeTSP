@@ -6,7 +6,7 @@ Heuristics for Traveling Salesman Problem
 
 A Powerful TSP Solver using Genetic-Algorithm and Edge-Assembly-Crossover.
 
-Revised from:
+Adapted from:
 
 ```
 https://github.com/nagata-yuichi/GA-EAX.git

@@ -799,7 +799,6 @@ void Kopt::CheckValid()
 {
   int t_st, t_c, t_n;
   int count;
-  int seg, orient;
   int Invalid = 0;
 
   for( int i = 0; i < fN; ++i )  
@@ -814,9 +813,6 @@ void Kopt::CheckValid()
     t_c = t_n;
     fCheckN[ t_c ] = 1;
     ++count;
-
-    seg = fSegCity[ t_c ];
-    orient = fOrient[ seg ];
 
     t_n = this->GetNext( t_c );
 

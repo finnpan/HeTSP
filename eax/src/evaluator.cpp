@@ -39,6 +39,7 @@ void Evaluator::SetInstance( const char filename[] )
 
   fp = fopen( filename, "r" );
   if (!fp) {
+      printf("%s open failed\n", filename);
       assert(0);
   }
 

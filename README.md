@@ -18,14 +18,3 @@ Reference:
 Yuichi Nagata and Shigenobu Kobayashi. 2013. A Powerful Genetic Algorithm Using Edge Assembly Crossover for the Traveling Salesman Problem. INFORMS J. on Computing 25, 2 (Spring 2013), 346–363. https://doi.org/10.1287/ijoc.1120.0506
 ```
 
-## LKH
-
-LKH is an effective implementation of the Lin-Kernighan heuristic for solving the traveling salesman problem.
-In order to study LKH core alogrithm, I remove lots of irrelevant codes. Now, lines of code are less 7000.
-
-Adapted from:
-
-```
-http://webhotel4.ruc.dk/~keld/research/LKH/
-```
-
